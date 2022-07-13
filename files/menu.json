@@ -1,0 +1,11 @@
+{
+    "examples":{
+        "title":"Cards",
+        "index":90
+    },
+    "examples/first_example":{
+        "title":"Draggable cards",
+        "view": "vuci-app-cards",
+        "index":10
+    }
+}
